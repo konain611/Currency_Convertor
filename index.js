@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 async function currencyConverter() {
     let from = await inquirer.prompt([{
