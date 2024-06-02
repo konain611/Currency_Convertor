@@ -4,6 +4,7 @@
   "description": "cli based simple currency convertor project using typescript",
   "main": "index.js",
   "type": "module",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
