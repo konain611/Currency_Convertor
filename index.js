@@ -1,5 +1,4 @@
 import inquirer from "inquirer";
-
 async function currencyConverter() {
     let from = await inquirer.prompt([{
             name: "currencyFrom",

@@ -1,0 +1,26 @@
+{
+  "name": "skan_currencyconvertor",
+  "version": "1.0.0",
+  "description": "cli based simple currency convertor project using typescript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konain611/Currency_Convertor.git"
+  },
+  "author": "Syed Konain Nasir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konain611/Currency_Convertor/issues"
+  },
+  "homepage": "https://github.com/konain611/Currency_Convertor#readme",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
